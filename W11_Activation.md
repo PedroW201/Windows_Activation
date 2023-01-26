@@ -22,7 +22,7 @@ Enterprise N: DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4
 
 ### Step 3 - Set KMS machine address
 ```bash
-slmgr /skms s8.now.im
+slmgr /skms 193.29.63.133:1688
 ```
 Check out the latest server at [KMS servers](https://kms.msguides.com/)
 
