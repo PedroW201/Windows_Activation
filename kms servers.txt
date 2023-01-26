@@ -3,3 +3,6 @@ https://gist.github.com/Zibri/69d55039e5354100d2f8a053cbe64c5a#file-kmsoffice-tx
 KMS=kms7.MSGuides.com Not working at the moment 20/01/2023
 KMS=kms8.MSGuides.com
 KMS=kms9.MSGuides.com
+
+MSGuides.com
+IP: 193.29.63.133:1688
