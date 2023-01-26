@@ -31,7 +31,7 @@ Windows Server 2016 Essentials: JCKRF-N37P4-C2D82-9YXRT-4M63B
 
 ### Step 4 - Set KMS machine address
 ```bash
-slmgr /skms s8.now.im
+slmgr /skms 193.29.63.133:1688
 ```
 Check out the latest server at [KMS servers](https://kms.msguides.com/)
 
